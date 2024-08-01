@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BidisaChowdhury&style=flat-square&color=blue)
 
-<img src="https://avatars.githubusercontent.com/u/your-username?v=4" width="150">
+<div align="center"><img alt="Coding" src="https://github.com/BidisaChowdhury/BidisaChowdhury/blob/main/githubBidisaChowdhury.gif" width="400"></div>
 
 ## About Me
 
@@ -17,6 +17,7 @@ I'm a Computer Science and Engineering student specializing in IoT from the Inst
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-3776AB?style=for-the-badge&logo=python&logoColor=white)
